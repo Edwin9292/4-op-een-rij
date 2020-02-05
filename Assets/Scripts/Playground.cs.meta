@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54a700d9641963e4cbb409e0deb85412
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SlotPrefab: {fileID: 6062508364741131816, guid: 9a0c042d18c933f43b0829214aaf894e,
+      type: 3}
+  - GameBackground: {fileID: 8843043809448665825, guid: 5034ef3224666ef47bd45bb0ad5fb58e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
